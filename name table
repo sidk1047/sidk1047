@@ -1,0 +1,12 @@
+<table>
+  <tr>
+    <th> fisrt name</th>
+    <th>last name</th>
+    <th>age</th>
+  </tr>
+  <tr>
+    <td>siddhant</td>
+    <td>kakani</td>
+    <td>11</td>
+  </tr>
+</table>
